@@ -1,0 +1,10 @@
+
+*DS_Store*
+.chroma
+.vscode
+share
+.env
+pyvenv*
+include
+lib
+bin
